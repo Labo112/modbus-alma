@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Labo112/modbus-alma/issues"
   },
-  "homepage": "https://github.com/Labo112/modbus-alma#readme"
+  "homepage": "https://github.com/Labo112/modbus-alma#readme",
+  "dependencies": {
+    "modbus-serial": "^8.0.1",
+    "node": "^14.14.0"
+  }
 }
