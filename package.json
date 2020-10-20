@@ -1,0 +1,23 @@
+{
+  "name": "modbus-alma",
+  "version": "1.0.0",
+  "description": "Simulateur modbus pour u-compt alma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Labo112/modbus-alma.git"
+  },
+  "keywords": [
+    "nodejs",
+    "modbus"
+  ],
+  "author": "Manoss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Labo112/modbus-alma/issues"
+  },
+  "homepage": "https://github.com/Labo112/modbus-alma#readme"
+}
